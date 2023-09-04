@@ -1,6 +1,6 @@
 
-/* root */
-@import url('./root.css');
+/* variables */
+@import url('./variables.css');
 
 /* reset */
 @import url('./reset.css');
@@ -11,4 +11,35 @@
 /* base style */
 @import url('./base.css');
 
+/* header */
+@import url('');
 
+/* footer */
+@import url('');
+
+/* hero */
+@import url('');
+
+/* benefits */
+@import url('');
+
+/* addition */
+@import url('');
+
+/* HIM */
+@import url('');
+
+/* products */
+@import url('');
+
+/* top sellers */
+@import url('');
+
+/* rewiews */
+@import url('');
+
+/* modal */
+@import url('');
+
+/* mobile-menu */
+@import url('');
