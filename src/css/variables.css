@@ -8,4 +8,9 @@
   --beige: #fcf1e0;
   --light: #fafafa;
   --white: #ffffff;
+
+
+  /* Animation */
+
+  --animation: 250ms ease-in;
 }
