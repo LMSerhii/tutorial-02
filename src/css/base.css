@@ -1,13 +1,25 @@
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: var(--black);
   background-color: var(--light);
 }
 
 .container {
-  min-width: 320px;
-  max-width: 1168px;
-  padding: 0 16px;
+  min-width: 260px;
+  max-width: 375px;
+  padding: 0 20px;
   margin: 0 auto;
 }
 
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 736px;
+    padding: 0 16px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .container {
+    max-width: 1168px;
+  }
+}
